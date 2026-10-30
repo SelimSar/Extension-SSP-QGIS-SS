@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+    <pyqgis_plugin name="ImportCouchesSSP" version="1.0.3">
+        <description>Outil SSP - Cartographie et import de couches</description>
+        <version>1.0.3</version>
+        <qgis_minimum_version>3.0</qgis_minimum_version>
+        <homepage>https://github.com/SelimSar/Extension-SSP-QGIS-SS</homepage>
+        <file_name>ImportCouchesSSP.zip</file_name>
+        <author_name>Selim Sari</author_name>
+        <download_url>https://github.com/SelimSar/Extension-SSP-QGIS-SS/releases/download/V1.0.3/ImportCouchesSSP.zip</download_url>
+    </pyqgis_plugin>
+</plugins>
