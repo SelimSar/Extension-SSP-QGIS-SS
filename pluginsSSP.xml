@@ -7,6 +7,6 @@
         <homepage>https://github.com/SelimSar/Extension-SSP-QGIS-SS</homepage>
         <file_name>ImportCouchesSSP.zip</file_name>
         <author_name>Selim Sari</author_name>
-        <download_url>https://github.com/SelimSar/Extension-SSP-QGIS-SS/releases/download/V1.0.3/ImportCoucheSSP.zip</download_url>
+        <download_url>https://github.com/SelimSar/Extension-SSP-QGIS-SS/releases/download/V1.0.3/ImportCouchesSSP.zip</download_url>
     </pyqgis_plugin>
 </plugins>
