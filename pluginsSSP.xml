@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-    <pyqgis_plugin name="ImportCouchesSSP" version="1.0.3">
+    <pyqgis_plugin name="ImportCouchesSSP" version="1.0.4">
         <description>Outil SSP - Cartographie et import de couches</description>
         <version>1.0.4</version>
         <qgis_minimum_version>3.0</qgis_minimum_version>
